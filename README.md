@@ -1,5 +1,7 @@
 # Intel Unnati Industrial Training Program 2024
 
+![fee4ce008189a967e77a53e43a3381d6](https://github.com/user-attachments/assets/8adfd392-0f65-4e78-a828-7bc28911dba0)
+
 This repository contains the codes, reports, and other materials submitted during the **Intel Unnati Industrial Training Program 2024**. The content here showcases the work, learning, and outcomes achieved throughout the training program.
 
 ## Table of Contents
