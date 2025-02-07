@@ -4,7 +4,6 @@ This repository contains the codes, reports, and other materials submitted durin
 
 ## Table of Contents
 - [Overview](#overview)
-- [Structure of the Repository](#structure-of-the-repository)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [License](#license)
@@ -24,18 +23,13 @@ The **Intel Unnati Industrial Training Program** focuses on fostering practical 
 
 ## Technologies Used
 
-- **Programming Languages**: Python, C++, Java, SQL
+- **Programming Languages**: Python
 - **Tools & Platforms**: Intel tools, Linux environment, GitHub
 - **Other Technologies**: AI/ML, Data Analysis, Cloud Computing
 
 ## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/intel-unnati-training-2024.git
-   ```
-2. Navigate through the directories to access the codes or reports.
-3. Refer to the reports for detailed explanations of the projects and tasks.
+1. Navigate through the directories to access the codes or reports.
+2. Refer to the reports for detailed explanations of the projects and tasks.
 
 ## License
 
